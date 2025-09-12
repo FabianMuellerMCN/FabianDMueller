@@ -18,8 +18,6 @@ navbar:
           href: psychosis.html
         - text: "Fearless Speech"
           href: fearless.html
-        - text: "SciSmile"
-          href: scismile.html
         - text: "Guided Breathing"
           href: BioFB.html
         - text: "Fearless MRI"
@@ -40,7 +38,7 @@ navbar:
           href: LiveSet.html
         
     - icon: fa-github fa-lg
-      href: https://github.com/FabianMuellerMCN  
+      href: https://github.com/FabianDMueller
     - icon: ai ai-osf fa-lg
       href: https://osf.io/mju4f
 

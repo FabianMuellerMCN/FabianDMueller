@@ -14,10 +14,10 @@ knitr::include_graphics("images/index/me3_round_bw.png")
 
 <div style="text-align: center; padding-top: 2em;">
 <br>
-I am a cognitive psychologist pursuing a PhD in Cognitive Neuroscience at the <a href="https://mcn.unibas.ch/de/">University of Basel</a>, Switzerland and <a href="https://campuspress.yale.edu/cannonlab/">Yale University</a>, USA. My broad aim is to develop straightforward and scalable <a href="https://www.sciencedirect.com/science/article/pii/S2666915323001658?via%3Dihub">treatment interventions</a> for mental health, using the potential of contemporary technologies, with a focus on immersive technologies like AR and VR. 
+I am a cognitive psychologist pursuing a PhD in Cognitive Neuroscience at the <a href="https://mcn.unibas.ch/de/">University of Basel</a>, Switzerland and <a href="https://campuspress.yale.edu/cannonlab/">Yale University</a>, USA. My broad aim is to develop straightforward and scalable <a href="https://www.sciencedirect.com/science/article/pii/S2666915323001658?via%3Dihub">treatment interventions</a> for mental health, using the potential of contemporary technologies, with a focus on immersive tech like AR and VR. 
 </div> 
 <div style="text-align: center; padding-top: 2em;">
-As a personal time capsule, this website showcases my research and artistic projects. <br>
+This website serves as a personal time capsule and a platform for sharing my research and personal projects. <br>
 <!-- For my CV and further information, click on the top left icon. -->
 </div> 
 </div> 
